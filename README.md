@@ -24,4 +24,9 @@ Writing data-driven content that’s both informative and human
 
 📬 Let’s connect, collaborate, and create!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ImashaBuddhini/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@ImashaBuddhini)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/_i.m.a.s.h.a_/)
+
+
 
