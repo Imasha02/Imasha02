@@ -22,7 +22,7 @@ Real-world applications of statistics and Python
 
 Writing data-driven content that’s both informative and human
 
-📬 Let’s connect, collaborate, and create!
+### 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasha-buddhini-996b80359)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@imashabuddhini123)
