@@ -1,4 +1,5 @@
-👋 Hi there, I'm Imasha Buddhini
+👋 Hi there, I'm Imasha Buddhini 
+
 🎓 Undergraduate at the Faculty of Science, University of Colombo
 📊 Background in Industrial Statistics & Mathematical Finance
 💻 Currently specializing in Information Technology & Management
