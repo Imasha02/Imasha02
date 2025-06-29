@@ -22,11 +22,6 @@ Real-world applications of statistics and Python
 
 Writing data-driven content that’s both informative and human
 
-### 📬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasha-buddhini-996b80359)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@imashabuddhini123)
-
 ### Technical Skills
 
 #### Programming Languages:
@@ -50,6 +45,11 @@ Writing data-driven content that’s both informative and human
 #### Tools & Technologies:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📬 Let’s connect, collaborate, and create!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasha-buddhini-996b80359)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@imashabuddhini123)
 
 
 
